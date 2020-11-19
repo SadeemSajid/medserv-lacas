@@ -1,0 +1,33 @@
+/* Body Tag */
+body {
+    font-family: 'Cutive Mono', monospace;
+}
+
+/* Header Section */
+#site-logo-div {
+    width: 125;
+    margin: 0 auto;
+}
+
+#alevel-logo {
+    max-width: 125px;
+}
+
+#searchbar {
+    max-width: 245px;
+    margin: 20px auto;
+}
+
+#searchbox {
+
+}
+
+.button {
+
+}
+
+#navbar {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
