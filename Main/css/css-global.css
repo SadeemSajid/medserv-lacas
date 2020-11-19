@@ -1,0 +1,17 @@
+/* Body Tag */
+body {
+    font-family: 'Cutive Mono', monospace;
+}
+
+/* Basic Classes */
+
+.link-text {
+    color: rgb(184, 90, 90);
+    text-decoration: none;
+}
+
+.link-text:hover {
+
+    color: mediumblue;
+    text-decoration: underline solid mediumblue;
+}
